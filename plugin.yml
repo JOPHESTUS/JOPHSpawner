@@ -1,0 +1,7 @@
+name: JOPHSpawner
+version: 1.0
+main: me.jophestus.JOPHSpawner.JOPHSpawner
+permissions: 
+    JOPHSpawner.use:
+        description: Allows use of plugin
+  
