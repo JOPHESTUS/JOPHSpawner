@@ -20,9 +20,6 @@ public class JOPHSpawner extends JavaPlugin implements Listener {
 		getServer().getPluginManager().registerEvents(this, this);
 	}
 
-	public void onDisable() {
-	}
-
 	@EventHandler(priority = EventPriority.HIGHEST, ignoreCancelled = true)
 	public void onBlockBreak(BlockBreakEvent event) {
 		if (event.getBlock().getType() == Material.MOB_SPAWNER) {
