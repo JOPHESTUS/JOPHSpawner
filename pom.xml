@@ -18,4 +18,11 @@
       </plugin>
     </plugins>
   </build>
+  <dependencies>
+  <dependancy>
+         <groupId>org.bukkit</groupId>
+         <artifactId>bukkit</artifactId>
+         <version>1.6.2 SNAPSHOT</version>
+         </dependancy>
+  </dependencies>
 </project>
