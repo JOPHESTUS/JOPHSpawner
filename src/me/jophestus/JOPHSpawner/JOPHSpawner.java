@@ -70,7 +70,7 @@ public class JOPHSpawner extends JavaPlugin implements Listener {
 				player.sendMessage(ChatColor.GREEN + "[JOPHSpawner]"
 						+ ChatColor.YELLOW
 						+ " You can't break and pick up Dragon Eggs :(");
-				Bukkit bukkit;
+			
 				
 
 			}

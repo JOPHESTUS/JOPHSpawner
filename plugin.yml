@@ -1,7 +1,9 @@
 name: JOPHSpawner
-version: 1.0
+version: 1.2
 main: me.jophestus.JOPHSpawner.JOPHSpawner
 permissions: 
     JOPHSpawner.use:
         description: Allows use of plugin
+    JOPHSpawner.dragonegg:
+        description: Allows players to pick up dragon egg
   
